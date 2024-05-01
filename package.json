@@ -2,7 +2,7 @@
   "name": "Love Cults, Masquerading Gals, and Subway Sammies: A Digital Visualization of LGBTQ+ Subcultures of Mid-Twentieth Century Boston",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/BCDigSchol/neponset-river-in-time.git",
+  "repository": "https://github.com/BCDigSchol/masquerading-gals.git",
   "author": "David J. Thomas <thomaei@bc.com>",
   "license": "CC BY-NC",
   "devDependencies": {
